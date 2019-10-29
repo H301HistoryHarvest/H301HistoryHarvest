@@ -12,7 +12,6 @@ itemtype: Physical Object
 shortdesc: Beige steel-toe boots with black leather top and yellow and red laces. 6" with steel toes on each shoe. 
 categories: [ Sentimental,Practical ]
 tags: [ material culture, clothing, feet, shoes, boot, Timberland ]
-itemquote: |
 ---
 
 ## About This Item
