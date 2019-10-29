@@ -1,0 +1,41 @@
+<!-- begin post -->
+{% assign author = site.authors[story.author] %}
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="maxthumb">
+            {% if story.featureditem %}
+            	<a href="{{ site.baseurl }}{{ story.url }}">
+                 <img class="img-fluid" src="{{ site.baseurl }}/assets/items/{{ story.featureditem }}_thumb.jpg" alt="{{ story.title }}"> {% endif %}
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="{{ site.baseurl }}{{ story.url }}">{{ story.title }}</a>
+            </h2>
+            <h4 class="card-text">{{ story.shortdesc | strip_html | truncatewords:30 }}</h4> 
+            <a class="btn follow" href="{{ site.baseurl }}{{ story.url }}">read more...</a>           
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                {% if post.author %}
+                <img class="author-thumb" src="{{site.baseurl}}/assets/authors/{{ author.image }}" alt="{{ author.display_name }}">
+                </span>                
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" href="{{ author.web }}">{{ author.display_name }}</a></span><br/>
+                {% endif %}
+                <span class="post-date">
+               {% if story.categories % }{% assign sortedCategories = story.categories | sort %}
+               {% for category in sortedCategories %}
+               <a class="btn follow" href="{{site.baseurl}}/groups#{{ category | replace: " ","-" }}">{{ category }}</a>
+               {% endfor %}
+                {% endif %}
+              
+               </span>
+                </span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->

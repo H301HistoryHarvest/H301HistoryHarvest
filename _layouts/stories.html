@@ -1,0 +1,14 @@
+---
+title: "Stories"
+layout: page
+permalink: "/stories"
+---
+
+{{ content }}
+
+<div class="row listrecent"> 
+{% assign pages_list = docs %}
+{% for story in site.stories %}
+{% include storybox.html %}
+{% endfor %}
+</div>    

@@ -1,0 +1,92 @@
+---
+title: "story"
+layout: default
+permalink: "/stories"
+---
+
+<!-- Begin Article
+================================================== -->
+<div class="container">
+	<div class="row">
+
+		<!-- Post Share -->
+		<div class="col-md-2 pl-0">            
+           <!--{% include share.html %} --> 
+		</div>
+		
+
+		<!-- Post -->        
+        {% assign author = site.authors[page.author] %}
+        
+		<div class="col-md-9 flex-first flex-md-unordered">
+			<div class="mainheading">
+
+                <!-- Author Box -->
+                {% if page.author %}				
+				<div class="row post-top-meta">
+					<div class="col-md-2">
+						<img class="author-thumb" src="{{site.baseurl}}/assets/authors/{{ author.image }}" alt="{{ author.display_name }}">
+					</div>
+					<div class="col-md-9">
+						{% if author.twitter %}<a target="_blank" class="link-dark" href="{{ author.web }}">{% endif %}{{ author.display_name }}</a>{% if author.twitter %}<a target="_blank" href="https://twitter.com/{{ author.twitter }}" class="btn follow"><i class="fab fa-twitter"></i></a> {% endif %}{% if author.instagram %}<a target="_blank" href="https://instagram.com/{{ author.twitter }}" class="btn follow"><i class="fab fa-instagram"></i></a> {% endif %}
+						<p><span class="author-description">{{ author.description }}</span>						
+					</div>
+ 	               {% endif %}
+ 
+               
+					<!-- Post Title -->
+					<h1 class="posttitle">{{ page.title }}</h1>
+				</div>
+			</div>
+
+			<!-- Post Content -->
+			<div class="article-post">
+				{{content}}
+			</div>  
+            <!-- End Categories -->
+
+
+			<div class="section-title col-md-12 mt-4" style="padding-left: 0;">
+			<h2><span class="text-capitalize">Featured artifacts in this exhibit: {{ page.exhibittitle }}</span></h2>
+			</div>
+
+			<div class="section-title col-md-12 mt-4" style="padding: 0;">
+			<!-- Post Featured Image -->
+			{% if page.itemid %}	
+			<img class="featured-image img-fluid" src="/assets/items/{{ page.itemid }}.jpg" alt="{{ page.title }}">
+			{% endif %}
+			{% assign pages_list = docs %}
+			{% for item in site.items %}
+			{% if page.featureditem contains item.itemid %}   
+			{% include featuredbox.html %}
+			{% endif %}
+			{% endfor %}
+			<!-- End Featured Image -->
+			</div>
+			
+			<div class="row listrecent"> 
+			{% assign pages_list = docs %}
+			{% for item in site.items %}
+			{% if page.selecteditems contains item.itemid %}   
+			{% include itembox.html %}
+			{% endif %}
+			{% endfor %}
+
+			{% assign pages_list = docs %}
+			{% for item in site.archiveitems %}
+			{% if page.selectedarchiveitems contains item.itemid %}   
+			{% include itembox.html %}
+			{% endif %}
+			{% endfor %}
+			
+			</div>    			
+
+		</div>
+		<!-- End Post -->
+
+	</div>
+</div>
+<!-- End Article
+================================================== -->
+
+  
