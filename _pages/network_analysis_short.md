@@ -1,2 +1,3 @@
 # Network Analysis
 Network analysis helps us to see connections between places, people, ideas, and more.  We made those connections among our History Harvest objects visible using Net.Create.
+Network analysis is a way to study the relationships between people, things, and ideas. Network analysis can be really helpful when looking at subjects like community ties, family descent, political relationships, and social media hubs. We build networks out of a group of nodes and edges. Nodes and edges (lines) Nodes are the subjects in the network, and their relationships to each other are traced by edges (lines). As we analyze a network, we can see how important a given node might be based on its edges (lines), and how they connect to other nodes. 
