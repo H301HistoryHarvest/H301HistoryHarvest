@@ -2,7 +2,7 @@
 
 ## Network Analysis
 
-[An Introduction to Network Analysis] (https://h301historyharvest.github.io/H301HistoryHarvest/_pages/network_analysis_short/)
+[An Introduction to Network Analysis](https://h301historyharvest.github.io/H301HistoryHarvest/_pages/network_analysis_short/)
 
 ### Read More:
 
