@@ -20,7 +20,7 @@
 
 ## Text Analysis
 
-[insert introduction here]
+[An Introduction to Text Analysis](https://h301historyharvest.github.io/H301HistoryHarvest/_pages/text_analyis_short/)
 
 ### Read More:
 
