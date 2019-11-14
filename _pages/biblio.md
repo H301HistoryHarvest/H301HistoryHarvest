@@ -24,7 +24,7 @@ Find out more about more about how we used [network analysis here](https://h301h
 
 Text analysis is a method of analyzing patterns of word usage. By treating words as data, we can find the most common words (term frequency), or the most important topics (topic modeling) in a body of text. We used a program called Voyant to build word clouds and other interactive visualizations that illustrate word frequencies within the oral histories of harvested objects.
 
-Find out more about more about how we used [text analysis here](https://h301historyharvest.github.io/H301HistoryHarvest/_pages/text_analyis_short/)
+Find out more about more about how we used [text analysis here](https://h301historyharvest.github.io/H301HistoryHarvest/_pages/text_analyis_short/).
 
 ### Read More:
 
