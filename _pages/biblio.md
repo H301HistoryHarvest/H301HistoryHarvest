@@ -4,7 +4,7 @@
 
 Network analysis is a research method which uses nodes (points) and edges (lines) to visually display connections across objects, people, places, events, and ideas.
 
-Find out more about more about how we used [network analysis here.](https://h301historyharvest.github.io/H301HistoryHarvest/_pages/network_analysis_short/).
+Find out more about more about how we used [network analysis here](https://h301historyharvest.github.io/H301HistoryHarvest/_pages/network_analysis_short/).
 
 ### Read More:
 
