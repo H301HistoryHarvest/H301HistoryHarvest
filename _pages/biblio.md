@@ -41,9 +41,9 @@ Find out more about more about how we used [text analysis here](https://h301hist
 
 ## Mapping
 
-Testing testing
+Digital mapping data records the spatial placement of objects, people, and events. For our History Harvest, we used Clio to map out where contributed artifacts came from. By displaying objects within their original context, we can learn more about what locations mean a lot when it comes to defining Hoosier life.
 
-Find out more about more about how we used [mapping here](https://h301historyharvest.github.io/H301HistoryHarvest/_pages/mapping_short/)
+Find out more about more about how we used [digital mapping here](https://h301historyharvest.github.io/H301HistoryHarvest/_pages/mapping_short/).
 
 ### Read More:
 
