@@ -4,9 +4,8 @@ title: The Toys We Play With, The Toys We Display
 exhibittitle: Toys in IU's history
 author: kalani
 storyid: kalani
-featureditem: 2019-03-06-ID0002
-selectedarchiveitems:
- - LL-SLO-000630
+featureditems:
+ - 2019-03-06-ID0002
 selecteditems:
  - 2019-03-019-ID0007
  - 2019-03-019-ID0002
