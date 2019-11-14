@@ -41,7 +41,9 @@ Find out more about more about how we used [text analysis here](https://h301hist
 
 ## Mapping
 
-[insert introduction here]
+Testing testing
+
+Find out more about more about how we used [mapping here](https://h301historyharvest.github.io/H301HistoryHarvest/_pages/mapping_short/)
 
 ### Read More:
 
