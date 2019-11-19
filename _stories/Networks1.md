@@ -14,9 +14,10 @@ selecteditems:
 
 ## A catchy headline
 
-A version of your research question goes here.
+How do connections between an object and its context affect the sentimentality between a person and an object?
 
-A paragraph about your group's items and how they are connected to your research question goes here.
+Our items all inspire a sense of sentimentality from the contributors. Some have a cultural connection, like the kimono and baby blankets, while others are more related to individual expresssion and family ties like the cleats and Gorn painting, respectively. Our network is allowing us to see how objects originating from different cultures find their way to a specific location. 
+
 
 ## Network analysis as a way of understanding your research question
 
@@ -24,10 +25,12 @@ A paragraph about your group's items and how they are connected to your research
 
 We created a base model as to how we were going to link our objects, their contributors, and their significance together, and see how they would all connect to a larger sense of community here at Indiana University. Using this model, we were able to see how seemingly different objects all came together here at Indiana University, from their different cultural backgrounds and different locations around the world. This led us to divide our objects based on their cultural context, individuality, and/or location of origin. Not all of the objects fell into all three of the catagories, some only fell into one.
 
+In the secondary sources for the baby blankets, the way immigrants, among other established groups in the U.S., establish community is discussed. The connected objects can show different manners in which people establish community, as many of the objects are tied to family, community, or culture.
+
 Several paragraphs, some of them adapted from your individual research on your objects, go here. Think about the connections from your secondary sources and how some of the other objects from our history harvest fit those connections.
 
-Several paragraphs on the results you see from your Network analyis so far.
-![Insert Text Here](/H301HistoryHarvest/assets/images/Network_Example.png){:width="250px"}
+Several paragraphs on the results you see from your Network analysis so far.
+![Insert Text Here](/H301HistoryHarvest/assets/images/Network_Example.PNG){:width="250px"}
 
 ## A conclusion
 
