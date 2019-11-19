@@ -6,7 +6,7 @@ featureditems:
  - 2019-10-11-0002
  - 2019-10-10-0001
  - 2019-10-08-0005
- - 2019-10-09-0005
+ - 
 selecteditems:
  - 2019-10-03-0010
  - 2019-10-03-0018
@@ -20,7 +20,7 @@ A paragraph about your group's items and how they are connected to your research
 
 ## Network analysis as a way of understanding your research question
 
-![Our "Blackboard Model"](/H301HistoryHarvest/assets/images/Blackboard_Model.jpeg)
+![Our "Blackboard Model"](/H301HistoryHarvest/assets/images/Blackboard_Model.jpeg)!
 
 We created a base model as to how we were going to link our objects, their contributors, and their significance together, and see how they would all connect to a larger sense of community here at Indiana University. Using this model, we were able to see how seemingly different objects all came together here at Indiana University, from their different cultural backgrounds and different locations around the world. This led us to divide our objects based on their cultural context, individuality, and/or location of origin. Not all of the objects fell into all three of the catagories, some only fell into one.
 
