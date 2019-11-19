@@ -13,7 +13,7 @@ selecteditems:
 
 ## A catchy headline
 
-A version of your research question goes here.
+How do material physical objects connect people to their communities? Additionally, how are the objects themselves shaped by the communities? 
 
 A paragraph about your group's items and how they are connected to your research question goes here.
 
