@@ -13,14 +13,12 @@ selecteditems:
 
 ## A catchy headline
 
-A version of your research question goes here.
-
-A paragraph about your group's items and how they are connected to your research question goes here.
+how does certain objects or household items bring comfort to people who are in a community?
 
 ## Text analysis as a way of understanding your research question
 
 
-A brief description of how you chose to divide the objects in light of the text analysis approach as an answer to the research question.
+The objects are divided in three different secitons: apparels, household objects, and other memiscellaneous items. 
 
 Several paragraphs, some of them adapted from your individual research on your objects, go here. Think about the connections from your secondary sources and how some of the other objects from our history harvest fit those connections.
 
