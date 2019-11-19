@@ -27,6 +27,7 @@ We created a base model as to how we were going to link our objects, their contr
 Several paragraphs, some of them adapted from your individual research on your objects, go here. Think about the connections from your secondary sources and how some of the other objects from our history harvest fit those connections.
 
 Several paragraphs on the results you see from your Network analyis so far.
+![Insert Text Here](/H301HistoryHarvest/assets/images/Network_Example.png){:width="250px"}
 
 ## A conclusion
 
