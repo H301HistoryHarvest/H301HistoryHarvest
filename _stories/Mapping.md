@@ -13,8 +13,8 @@ selecteditems:
  -2019-10-03-0012
  -2019-10-09-0001
  -2019-10-10-0003
- ---
-
+---
+ 
 ## A catchy headline
 
 How do material physical objects connect people to their communities? Additionally, how are the objects themselves shaped by the communities? 
