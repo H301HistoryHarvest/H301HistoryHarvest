@@ -54,7 +54,7 @@ permalink: "/stories"
 			<!-- Post Featured Image -->
 			{% assign pages_list = docs %}
 			{% for item in site.featureditems %}
-			{% if page.featureditem contains item.itemid %}   
+			{% if page.featureditems contains item.itemid %}   
 			{% include itembox.html %}
 			{% endif %}
 			{% endfor %}
