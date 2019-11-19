@@ -15,7 +15,7 @@ selecteditems:
  - 2019-10-10-0003
 ---
  
-## A catchy headline
+## Mapping Bloomington Through Material Physical Objects
 
 How do material physical objects connect people to their communities? Additionally, how are the objects themselves shaped by the communities? 
 
