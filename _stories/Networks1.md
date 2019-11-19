@@ -20,6 +20,8 @@ A paragraph about your group's items and how they are connected to your research
 
 ## Network analysis as a way of understanding your research question
 
+![Our "Blackboard Model"](/H301HistoryHarvest/assets/images/Blackboard_Model.jpeg)
+
 We created a base model as to how we were going to link our objects, their contributors, and their significance together, and see how they would all connect to a larger sense of community here at Indiana University. Using this model, we were able to see how seemingly different objects all came together here at Indiana University, from their different cultural backgrounds and different locations around the world. This led us to divide our objects based on their cultural context, individuality, and/or location of origin. Not all of the objects fell into all three of the catagories, some only fell into one.
 
 Several paragraphs, some of them adapted from your individual research on your objects, go here. Think about the connections from your secondary sources and how some of the other objects from our history harvest fit those connections.
