@@ -8,6 +8,8 @@ featureditems:
 selecteditems:
  - 2019-10-03-0010
  - 2019-10-10-0001
+ - 2019-10-08-0018
+ - 2019-10-08-0006
 ---
 
 ## A catchy headline
