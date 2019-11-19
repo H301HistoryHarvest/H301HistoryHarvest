@@ -2,13 +2,13 @@
 layout: story
 title: Mapping in History Harvests
 exhibittitle: Mapping in History Harvests
-featureditems:
+featured items:
  - 2019-10-10-0007
  - 2019-10-08-0002
  - 2019-10-03-0010
  - 2019-10-01-0003
 
-selecteditems:
+selected items:
  - 2019-10-11-0003
  - 2019-10-10-0001
  -2019-10-03-0012
