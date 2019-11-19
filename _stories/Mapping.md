@@ -18,7 +18,7 @@ selecteditems:
 
 How do material physical objects connect people to their communities? Additionally, how are the objects themselves shaped by the communities? 
 
-Our group’s objects are all familial pieces of various cultures that reflect the lifestyle of multiple communities across the world. We intend to connect these objects, along with others, and the journey in which the objects took to arrive in our History Harvest at Indiana University. The objects that we collected are not just meaningless inanimate objects, but treasured items that truly mean something to its owner. Logging these items into our History Harvest allows for these representations of culture to become etched in society for the understanding of future generations.
+Our group’s objects are all familial pieces of various cultures that reflect the lifestyle of multiple communities across the world. We intend to connect these objects, along with others, while tracking the journey in which these objects took to arrive in our History Harvest at Indiana University. The objects that we collected are not just meaningless inanimate objects, but treasured items that truly mean something to its owner. Logging these items into our History Harvest allows for these representations of culture to become etched in society for the understanding of future generations.
 
 ## Spatial analysis as a way of understanding your research question
 
