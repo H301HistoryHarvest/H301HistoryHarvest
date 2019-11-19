@@ -50,10 +50,10 @@ permalink: "/stories"
 			<h2><span class="text-capitalize">Featured artifacts in this exhibit: {{ page.exhibittitle }}</span></h2>
 			</div>
 
-			<div class="row listrecent"> 
+			<div class="section-title col-md-12 mt-4" style="padding: 0;">
 			<!-- Post Featured Image -->
 			{% assign pages_list = docs %}
-			{% for item in site.items %}
+			{% for item in site.featureditems %}
 			{% if page.featureditem contains item.itemid %}   
 			{% include itembox.html %}
 			{% endif %}
