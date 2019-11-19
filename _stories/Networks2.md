@@ -20,6 +20,8 @@ The Dorodango collection is a collection of mudballs that were collected by the 
 
 ## Network analysis as a way of understanding your research question
 
+(/H301HistoryHarvest/assets/images/Screen Shot 2019-11-19 at 5.02.23 PM.png)
+
 Were to define nodes as objects, locations, and tags, and our edges are defined as "is connected to..." Of the information we had available, selecting these as our nodes and identifying the edges as "is connected to..." made the most sense organizationally. By doing this, we hoped that the connections between the objects and the tags would be clearly illustrated. Our method was for each group member to focus on one item at a time, create a node for that item, create nodes for tags and locations relating to that item, and then connect that item to those nodes. Once each member added all of the tags and locations for the object and connected them via edges, we moved on to the next object on the list.
 
 From the secondary sources, we are finding more to add in our networking then we initially thought we would have.  When thinking about it, it can be hard to correlate something to Vans or Mudballs.  When thinking about it in the big picture however, we found that adding smaller items that can relate, would help us better understand how uncorrelated items even come together at times.  The Vans that were chosen by one of our group members, was hard to connect with something.  When looking deeper, we looked at how Candy Stripe pants tied into having that no name pattern like the Vans, but still having a stronger meaning.  Even though they aren’t even similar on the same spectrum, we looked at how these two were similar in a way that could be tied together.
