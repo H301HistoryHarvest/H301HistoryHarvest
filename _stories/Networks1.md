@@ -30,7 +30,8 @@ In the secondary sources for the baby blankets, the way immigrants, among other 
 Several paragraphs, some of them adapted from your individual research on your objects, go here. Think about the connections from your secondary sources and how some of the other objects from our history harvest fit those connections.
 
 Several paragraphs on the results you see from your Network analysis so far.
-![Insert Text Here](/H301HistoryHarvest/assets/images/Network_Example.PNG){:width="250px"}
+
+![Insert Text Here](/H301HistoryHarvest/assets/images/Network_Example.PNG)
 
 ## A conclusion
 
