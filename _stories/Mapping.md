@@ -2,6 +2,7 @@
 layout: story
 title: Mapping in History Harvests
 exhibittitle: Mapping in History Harvests
+
 featured items:
  - 2019-10-10-0007
  - 2019-10-08-0002
