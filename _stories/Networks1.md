@@ -37,4 +37,5 @@ Several paragraphs on the results you see from your Network analysis so far.
 ## A conclusion
 
 A conclusion about how Network analysis together with the research you did on your individual objects helped you answer your research question.
+Network analysis has allowed us to see how objects from different cultures, both domestic and international, come together through means of sentimentality and globalization to create both different communities and one larger, "umbrella" community. Through our created model, we were able to use Net.Create to see this structure in all of our objects, and how those "Context" nodes allowed several objects (in some cases) to...
 
