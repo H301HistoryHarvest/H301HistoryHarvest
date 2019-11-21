@@ -1,7 +1,7 @@
 ---
 layout: story
-title: Network analysis 2 in History Harvests
-exhibittitle: Network analysis 2 in History Harvests
+title: Network analysis to understand the cultural values of self expression
+exhibittitle: Network analysis to understand the cultural values of self expression
 featureditems:
  - 2019-10-01-0015
  - 2019-10-03-0018
@@ -12,7 +12,7 @@ selecteditems:
  - 2019-10-08-0006
 ---
 
-## A catchy headline
+## Network analysis to understand the cultural values of self expression
 
 How do the cultural differences of each object affect how they serve as a mode of individual self expression?
 
