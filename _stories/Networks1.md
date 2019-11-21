@@ -1,7 +1,7 @@
 ---
 layout: story
-title: Network analysis in History Harvests
-exhibittitle: Network analysis in History Harvests
+title: Network analysis to understand an object's sentimentality in context
+exhibittitle: Network analysis to understand an object's sentimentality in context
 featureditems:
  - 2019-10-11-0002
  - 2019-10-10-0001
@@ -12,7 +12,7 @@ selecteditems:
  - 2019-10-03-0018
 ---
 
-## A catchy headline
+## Network analysis to understand an object's sentimentality in context
 
 How do connections between an object and its context affect the sentimentality between a person and an object?
 
