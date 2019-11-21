@@ -7,8 +7,9 @@ We build networks by putting together “nodes” (points) and “edges” (the 
 
 >insert images of students working on network, including some text giving an example of one of the discoveries they made, plus a block quote from a student about using networks. 
 
-We used a program called Net.Create to analyze the network data from our History Harvest, but anyone can make their own network with just a pen and a piece of paper. Try drawing your social network as it exists today, with you at the center and your friends and family (and anyone else you are connected with) as nodes connected to you (and potentially, each other!). How would you draw the same network from a point in your childhood?  When you compare your two networks, how might they help you see changes to your social networks over time?
+![A Sample Analysis](/H301HistoryHarvest/assets/images/network1.JPG)
 
+We used a program called Net.Create to analyze the network data from our History Harvest, but anyone can make their own network with just a pen and a piece of paper. Try drawing your social network as it exists today, with you at the center and your friends and family (and anyone else you are connected with) as nodes connected to you (and potentially, each other!). How would you draw the same network from a point in your childhood?  When you compare your two networks, how might they help you see changes to your social networks over time?
 
 * [Networks Grp 1](http://192.241.128.149:3000/#/) 
 
