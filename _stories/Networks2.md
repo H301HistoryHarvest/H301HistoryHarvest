@@ -1,7 +1,7 @@
 ---
 layout: story
-title: Network analysis in History Harvests
-exhibittitle: Network analysis in History Harvests
+title: Network analysis 2 in History Harvests
+exhibittitle: Network analysis 2 in History Harvests
 featureditems:
  - 2019-10-01-0015
  - 2019-10-03-0018
