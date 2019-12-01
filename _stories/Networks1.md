@@ -1,6 +1,6 @@
 ---
 layout: story
-title: Network analysis to understand an object's sentimentality in context
+title: Network Analysis to Understand an Object's Sentimentality in Context
 exhibittitle: Network analysis to understand an object's sentimentality in context
 featureditems:
  - 2019-10-11-0002
@@ -12,14 +12,14 @@ selecteditems:
  - 2019-10-03-0018
 ---
 
-## Network analysis to understand an object's sentimentality in context
+## Network Analysis to Understand an Object's Sentimentality in Context
 
 How do connections between an object and its context affect the sentimentality between a person and an object?
 
 Our items all inspire a sense of sentimentality from the contributors. Some have a cultural connection, like the kimono and baby blankets, while others are more related to individual expresssion and family ties like the cleats and Gorn painting, respectively. Our network is allowing us to see how objects originating from different cultures find their way to a specific location. 
 
 
-## Network analysis as a way of understanding your research question
+## Using Network Analysis to Understand how Sentimentality affects Objects and their Cultures
 
 ![Our "Blackboard Model"](/H301HistoryHarvest/assets/images/Blackboard_Model.jpeg){:width="250px"}
 
