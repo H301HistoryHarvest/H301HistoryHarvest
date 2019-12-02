@@ -34,6 +34,7 @@ Our group’s objects are all familial pieces of various cultures that reflect t
 ## Spatial analysis as a way of understanding your research question
 
 A brief description of how you chose to divide the objects in light of the spatial analysis approach as an answer to the research question.
+
 The objects we have collected follow a specific path that led them to our History Harvest. Although, these objects have never crossed paths, their stories are all one in the same. These objects have made specific journeys that categorize them as traveling artifacts. Each of the objects have their own meaning and where they come from. Each artifact holds behind it, a story that explains the object’s journey.
 
 Several paragraphs, some of them adapted from your individual research on your objects, go here. Think about the connections from your secondary sources and how some of the other objects from our history harvest fit those connections.
