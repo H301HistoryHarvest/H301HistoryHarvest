@@ -11,13 +11,13 @@ selecteditems:
  - 2019-10-03-0018
 ---
 
-## A catchy headline
+## Research Question
 
 How do the various descriptive patterns people use help connect people from different parts of the world? 
 
 ## Object Groups: Apparel, Household items, Miscellaneous items
 
-"Apparel"
+*Apparel*
 
 
 The objects are divided in three different secitons: apparels, household objects, and other memiscellaneous items. 
