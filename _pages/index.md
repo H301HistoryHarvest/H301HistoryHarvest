@@ -14,6 +14,12 @@ To kick-start that process, each person in our class started the semester by wri
 
 In addition to the digital exhibit presented here, we also designed and installed an exhibit at the University Archives in IU’s Well’s Library.
 
+###Our Experiences and Methods
+
+As digital history students we studied three domains of methods for analysis of historical data:  Text Analaysis, Mapping, and Network Analysis.
+
+[Student input]
+
 
 #### Special Thanks To
 [to be filled in]
