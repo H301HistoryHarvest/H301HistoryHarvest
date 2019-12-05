@@ -13,9 +13,11 @@ selecteditems:
 
 ## A catchy headline
 
-how does certain objects or household items bring comfort to people who are in a community?
+How do the various descriptive patterns people use help connect people from different parts of the world? 
 
-## Text analysis as a way of understanding your research question
+## Object Groups: Apparel, Household items, Miscellaneous items
+
+"Apparel"
 
 
 The objects are divided in three different secitons: apparels, household objects, and other memiscellaneous items. 
