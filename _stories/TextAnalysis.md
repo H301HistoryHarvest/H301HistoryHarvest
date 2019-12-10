@@ -32,7 +32,7 @@ How do the various descriptive patterns people use help connect people from diff
 
 *Miscellaneous*
 
-![alt text](/H301HistoryHarvest/assets/images/voyant.png "Voyant Screen Capture")
+![alt text](https://h301historyharvest.github.io/H301HistoryHarvest/assets/images/voyant.png "Voyant Screen Capture")
 
 The objects are divided in three different secitons: apparels, household objects, and other memiscellaneous items. 
 
