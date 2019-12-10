@@ -32,6 +32,8 @@ How do the various descriptive patterns people use help connect people from diff
 
 *Miscellaneous*
 
+![alt text](/H301HistoryHarvest/assets/images/voyant.png "Voyant Screen Capture")
+
 The objects are divided in three different secitons: apparels, household objects, and other memiscellaneous items. 
 
 Several paragraphs, some of them adapted from your individual research on your objects, go here. Think about the connections from your secondary sources and how some of the other objects from our history harvest fit those connections.
