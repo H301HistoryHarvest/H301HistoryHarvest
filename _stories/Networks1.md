@@ -36,11 +36,11 @@ Using McKevitt's observation of cultural globalization, combined with our networ
 
 ![Example of the Model](/H301HistoryHarvest/assets/images/Network_Example1.jpg){:width="500px"}
 
-### Several paragraphs, some of them adapted from your individual research on your objects, go here. Think about the connections from your secondary sources and how some of the other objects from our history harvest fit those connections.
+***Several paragraphs, some of them adapted from your individual research on your objects, go here. Think about the connections from your secondary sources and how some of the other objects from our history harvest fit those connections.***
 
 The other marvel that examples like these give us is that we can "see" through our network analysis the cultural globalization that McKevitt describes. Our connections and our theory of our model allow us to see just how all these different cultures, both domestic and international, can make their way into one community. Also, we have the chance to dive into the depths as to how they made their way into not only their respective owners procession, but also into said community. We have been able to physically connect how Harry Potter, Mexican culture, and Japanese culture all made their way into Bloomington. We have been able to see how a recipes from Hawai'i and how a necklace from parents in China give such a personalized meaning to an individual, despite them being viewed as either "mass-produced" or every-day common objects.
 
-### Several paragraphs on the results you see from your Network analysis so far.
+***Several paragraphs on the results you see from your Network analysis so far.***
 
 ![A small portion of the network](/H301HistoryHarvest/assets/images/Network_Example.PNG)
 
