@@ -21,7 +21,7 @@ How do the various descriptive patterns people use help connect people from diff
 - Separate objects into three different groups: *Apparel, Household items and Miscellaneous*
 - Group transcripts based on object groups
 
-![alt text](https://h301historyharvest.github.io/H301HistoryHarvest/assets/images/voyant.png "Voyant Screen Capture")
+![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/ExcelScreenshot.png "Excel Screen Capture")
 
 - Upload transcripts onto *Voyant*
 - Make a list of *stop words* for each of the different groups using Voyant
