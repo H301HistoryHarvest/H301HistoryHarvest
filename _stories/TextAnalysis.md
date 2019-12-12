@@ -43,7 +43,7 @@ polar opposite identities can come togther in one location to blend in with each
 
 *Miscellaneous*
 
-! [alt text]https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/voyant%20screenshot.png "Voyant Screen Capture")
+![alt text]https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/voyant%20screenshot.png 
 
 The objects are divided in three different secitons: apparels, household objects, and other memiscellaneous items. 
 
