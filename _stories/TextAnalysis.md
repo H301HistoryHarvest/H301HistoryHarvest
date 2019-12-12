@@ -37,7 +37,6 @@ The history harvest essentially showed us how people from different parts of the
 
 *Household items*
 
-![alt text](https://H301HistoryHarvest.github.io/H301HistoryHarvest/blob/master/assets/images/HouseholdScreenshot.png "Voyant Screen Capture")
 
 *Miscellaneous*
 
