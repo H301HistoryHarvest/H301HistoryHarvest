@@ -61,3 +61,6 @@ Smith, Thérèse. “Lining, Testifying, and 'Blackenizing': The Musical Express
 
 Treas, Judith, and Shampa Mazumdar. “Kinkeeping and Caregiving: Contributions of Older People in Immigrant Families.” Journal of Comparative Family Studies, vol. 35, no. 1, 2004, pp. 105–122. JSTOR, www.jstor.org/stable/41603919.
 
+Larlham, D. (2012). On Empathy, Optimism, and Beautiful Play at the First African World Cup. TDR (1988-), 56(1), 18-47. Retrieved from http://www.jstor.org/stable/41407127.
+
+
