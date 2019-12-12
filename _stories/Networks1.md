@@ -21,7 +21,7 @@ Our items all inspire a sense of sentimentality from the contributors. Some have
 
 ## Using Network Analysis to Understand how Sentimentality affects Objects and their Cultures
 
-![Our "Blackboard Model"](/H301HistoryHarvest/assets/images/Blackboard_Model.jpeg){:width="250px"}
+![Our "Blackboard Model"](/H301HistoryHarvest/assets/images/Screen Shot 2019-12-12 at 4.35.05 PM.png){:width="250px"}
 
 We created a base model (shown above) as to how we were going to link our objects, their contributors, and their significance together, and see how they would all connect to a larger sense of community here at Indiana University. Using this model, we were able to see how seemingly different objects all came together here at Indiana University, from their different cultural backgrounds and different locations around the world. This led us to divide our objects based on their cultural context, individuality, and/or location of origin. Not all of the objects fell into all three of the catagories, some only fell into one.
 
