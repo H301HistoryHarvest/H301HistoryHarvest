@@ -57,10 +57,12 @@ This can also give us another level of that sentimentality connection that we se
 Network analysis allows the ability to illustrate a visual connection between an item and its correspondents, whether that is an owner, creator, or even a contextual event. The links between an item and its related nodes help to show a deeper connection, describing how an object has a significant meaning beyond its surface. By linking nodes to other nodes, one is able to see how objects that appear unrelated actually have an underlying backgrounds that tie them together. We created a model to base all objects off of, forming a connection triangle between a person, an object, and the context of the object. For our group, we did research on a painting, a kimono, a blanket, and a pair of cleats – all seemingly unrelated and mutually exclusive at first glance. However, after applying our network analysis triangle model, we were able to see the connection between objects via cultural and artistic significances. By tying our object to a context and relating that context to a person’s sentimentality, we were able to form a deeper meaning for objects and then have the ability to link objects with similar contextual values in order to build a web of inter-related connotations. This allowed us to not only interpret and connect our personally chosen objects, but see if there was a similar connection between the other items collected in the history harvest. By linking objects to each other through sentimental context and other factors, we are able to create a community of people and objects that would originally never be placed together.
 
 ## Works Cited
+Larlham, D. (2012). On Empathy, Optimism, and Beautiful Play at the First African World Cup. TDR (1988-), 56(1), 18-47. Retrieved from http://www.jstor.org/stable/41407127.
+
 Smith, Thérèse. “Lining, Testifying, and 'Blackenizing': The Musical Expression of Black American Church Families.” Irish Journal of American Studies, vol. 7, 1998, pp. 55–78. JSTOR, www.jstor.org/stable/30002407.
 
 Treas, Judith, and Shampa Mazumdar. “Kinkeeping and Caregiving: Contributions of Older People in Immigrant Families.” Journal of Comparative Family Studies, vol. 35, no. 1, 2004, pp. 105–122. JSTOR, www.jstor.org/stable/41603919.
 
-Larlham, D. (2012). On Empathy, Optimism, and Beautiful Play at the First African World Cup. TDR (1988-), 56(1), 18-47. Retrieved from http://www.jstor.org/stable/41407127.
+
 
 
