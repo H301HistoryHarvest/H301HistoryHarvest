@@ -39,6 +39,8 @@ polar opposite identities can come togther in one location to blend in with each
 
 *Household items*
 
+![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/HouseholdScreenshot.png "Voyant Screen Capture")
+
 *Miscellaneous*
 
 
