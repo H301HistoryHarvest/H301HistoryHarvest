@@ -15,6 +15,8 @@ selecteditems:
 
 How do the various descriptive patterns people use help connect people from different parts of the world? 
 
+The history harvest essentially showed us how people from different parts of the world use certain objects to reflect upon their identity. 
+
 ## Process of analysis
 
 - Collection of transcripts
