@@ -42,7 +42,9 @@ The other marvel that examples like these give us is that we can "see" through o
 
 The first World Cup held in Africa and the cultural expression that accompanied it fits with many other items within our network. This source described the expression and communalism that was established by the African players and citizens at the event.  The authentic and original African garb and colors that they wore allowed them to express themselves on a national stage. This connects extremely well to the Dragon Kimono that I observed in the network. This Komono is a perfect example of a culture expressing themselves through individual, one-of-a-kind apparel. Marigold’s tattoo in the network is also an unbelievable example of someone being able to represent her latino/a culture through expression on her body. Individualism and sentimentality through apparel, or clothing, or dress can be found throughout the entirety of the network.
 
-![A small portion of the network](/H301HistoryHarvest/assets/images/Network_Example_Group1.PNG){:width="750px"}{:height="500px"}
+<p align="center">
+  <img width="750" height="500" src="/H301HistoryHarvest/assets/images/Network_Example_Group1.PNG">
+</p>
 
 ## Viewing our Network in a Geographical Space
 
