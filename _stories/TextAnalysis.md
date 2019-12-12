@@ -15,7 +15,9 @@ selecteditems:
 
 How do the various descriptive patterns people use help connect people from different parts of the world? 
 
-The history harvest essentially showed us how people from different parts of the world use certain objects to reflect upon their identities. People use descriptive phrases which are analyzed below to show us that 
+The history harvest essentially showed us how people from different parts of the world use certain objects to reflect upon their identities. 
+People use descriptive phrases and some key words which are analyzed below to show us that people from many different cultures and 
+polar opposite identities can come togther in one location to blend in with eachother while still having 
 
 ## Process of analysis
 
@@ -36,7 +38,6 @@ The history harvest essentially showed us how people from different parts of the
 ![alt text](https://h301historyharvest.github.io/H301HistoryHarvest/assets/images/voyant.png "Voyant Screen Capture")
 
 *Household items*
-
 
 *Miscellaneous*
 
