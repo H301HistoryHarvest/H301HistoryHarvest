@@ -20,7 +20,8 @@ The Dorodango collection is a collection of mudballs that were collected by the 
 
 ## Network analysis as a way of understanding your research question
 
-![](/H301HistoryHarvest/assets/images/Screen Shot 2019-11-19 at 5.02.23 PM.png)
+![](/H301HistoryHarvest/assets/images/Screen Shot 2019-12-17 at 5.21.09 PM.png)
+![](/H301HistoryHarvest/assets/images/Network2_Factions.png)
 
 We defined nodes as objects, locations, and tags, and our edges as "is connected to..." Of the information we had available, selecting these as our nodes and identifying the edges as "is connected to..." made the most sense organizationally. By doing this, we hoped that the connections between the objects and the tags would be clearly illustrated. Our method was for each group member to focus on one item at a time, create a node for that item, create nodes for tags and locations relating to that item, and then connect that item to those nodes. Once each member added all of the tags and locations for the object and connected them via edges, we moved on to the next object on the list. 
 
