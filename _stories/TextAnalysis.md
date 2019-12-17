@@ -13,7 +13,7 @@ selecteditems:
 
 ## Research Question
 
-How can the analysis of diction and syntax help researchers connect seemingly different individuals or groups?
+- How can the analysis of diction and syntax help researchers connect seemingly different individuals or groups?
 
 By dissecting the diction of our history harvest participants, we, in turn, have started to build a broader understanding of descriptive speech patterns regarding their unique ability to connect diverse individuals. Whether it be varying socio-economic, political, geographic, or cultural backgrounds—individual’s consistently attach sentimental meanings to “objects” of all shapes and sizes. With the city of Bloomington as our example, we intend to successfully identify and explain any trends that present themselves. 
 
