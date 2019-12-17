@@ -27,6 +27,8 @@ The collection of the transcripts went smoothly. Thanks to the class, and additi
 
 - Separate objects into three different groups: *Apparel, Household items and Miscellaneous*
 
+The creation of object groups and separation of said groups was not demanding. Although, it was time-consuming to carefully think the groups that best represented the body of objects, and in turn, sort them accordingly.
+
 ![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/ExcelScreenshot.png "Excel Screen Capture")
 
 - Group and upload transcripts onto *Voyant*
