@@ -15,7 +15,7 @@ selecteditems:
 
 - How can the analysis of diction and syntax help researchers connect seemingly different individuals or groups?
 
-By dissecting the diction of our history harvest participants, we, in turn, have started to build a broader understanding of descriptive speech patterns, specifically regarding their unique objects. Whether it be varying socio-economic, political, geographic, or cultural backgrounds—the individual’s consistently attached sentimental meanings to objects of all shapes and sizes. With the city of Bloomington as our example, we intend to identify and explain any trends that present themselves successfully.
+By dissecting the transcribed interviews of our history harvest participants, we, in turn, have started to build a broader understanding of descriptive speech patterns, specifically regarding their unique objects. Whether it be varying socio-economic, political, geographic, or cultural backgrounds—the individual’s consistently attached sentimental meanings to objects of all shapes and sizes. With the city of Bloomington as our example, we intend to identify and explain any trends that present themselves successfully.
 
 ## Process of analysis
 
