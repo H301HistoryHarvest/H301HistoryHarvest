@@ -23,7 +23,7 @@ polar opposite identities can come togther in one location to blend in with each
 
 - Collection of transcripts
 
-The collection of the transcripts went smoothly. Thanks to the class, and additional help transcribing the interviews fairly early along in the process. It was as simple as having a file full of them added to our Text Analysis Box folder. 
+The collection of the transcripts went smoothly. Thanks to the class, and additional help transcribing the interviews fairly early along in the process, it was as simple as having a file full of them added to our Text Analysis Box folder. 
 
 - Separate objects into three different groups: *Apparel, Household items and Miscellaneous*
 - Group transcripts based on object groups
