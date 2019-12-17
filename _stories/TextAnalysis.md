@@ -22,6 +22,9 @@ polar opposite identities can come togther in one location to blend in with each
 ## Process of analysis
 
 - Collection of transcripts
+
+The collection of the transcripts went smoothly. Thanks to the class, and additional help transcribing the interviews fairly early along in the process. It was as simple as having a file full of them added to our Text Analysis Box folder. 
+
 - Separate objects into three different groups: *Apparel, Household items and Miscellaneous*
 - Group transcripts based on object groups
 
