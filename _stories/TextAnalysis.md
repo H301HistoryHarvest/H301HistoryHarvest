@@ -59,12 +59,6 @@ Several paragraphs, some of them adapted from your individual research on your o
 
 Several paragraphs on the results you see from your text analyis so far.
 
-- bullet point 1 
-- bullet point 2
- - indented bullet point
- - indented bullet point
-
-
 ## A conclusion
 
 A conclusion about how text analysis together with the research you did on your individual objects helped you answer your research question.
