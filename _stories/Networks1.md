@@ -23,7 +23,7 @@ Our items all inspire a sense of sentimentality from the contributors. Some have
 
 <p align="left">
   <img width="250" height="375" src="/H301HistoryHarvest/assets/images/Blackboard_Model.jpeg">
-  <img align="center" width="300" height="375" src="/H301HistoryHarvest/assets/images/Screen Shot 2019-12-12 at 4.35.05 PM.png">
+  <img align="center" width="350" height="375" src="/H301HistoryHarvest/assets/images/Screen Shot 2019-12-12 at 4.35.05 PM.png">
 </p>
 
 We created a base model on a blackboard (digital recreation shown above) depicting how we were going to link our objects, their contributors, and their significance together, and see how they would all connect to a larger sense of community here at Indiana University. Using this model, we were able to see how seemingly different objects all came together here at Indiana University, from their different cultural backgrounds and different locations around the world. This led us to divide our objects based on their cultural context, individuality, and/or location of origin. Not all of the objects fell into all three of the categories, some only fell into one.
