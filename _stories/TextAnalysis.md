@@ -49,7 +49,9 @@ In computing, stop words are the most commonly used words in a language. In turn
 
 *Miscellaneous*
 
-![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/voyant%20screenshot.png "Voyant Screen Capture") 
+![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/voyant%20screenshot.png "Voyant Screen Capture")
+
+This Section was filled with items that were considered a majority of different random items that people had. Form keychains to photocards, these items all represented the people and their personal identities while also connecting them to the people within the city of Bloomington. During my study, I found that most miscellaneous items were ones that people retrieved from areas outside Bloomington at some point in their life. However, it connects with the people who had miscellaneous things in Bloomington because they both provided a sense of comfort for each individual. 
 
 The objects are divided in three different secitons: apparels, household objects, and other miscellaneous items. 
 
