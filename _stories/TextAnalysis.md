@@ -49,7 +49,7 @@ In computing, stop words are the most commonly used words in a language. In turn
 
 ![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/voyant%20screenshot.png "Voyant Screen Capture") 
 
-The objects are divided in three different secitons: apparels, household objects, and other memiscellaneous items. 
+The objects are divided in three different secitons: apparels, household objects, and other miscellaneous items. 
 
 Several paragraphs, some of them adapted from your individual research on your objects, go here. Think about the connections from your secondary sources and how some of the other objects from our history harvest fit those connections.
 
