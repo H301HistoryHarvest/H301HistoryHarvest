@@ -27,7 +27,7 @@ polar opposite identities can come togther in one location to blend in with each
 
 ![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/ExcelScreenshot.png "Excel Screen Capture")
 
-- **Upload transcripts onto *Voyant**
+- Upload transcripts onto *Voyant*
 
 Uploading our transcripts into Voyant was simple… but not at first. This was an area that the group struggled with initially. The reason for this? Unfamiliarity with the tool at hand. We weren’t exactly sure how to approach uploading multiple transcripts into Voyant. Originally, we decided to sort all transcripts according to item type and then copy and paste them into one single document for the group. This sounded good at the time but presented challenges later in the process. Eventually, we had to add transcripts as they were finishing up the transcribing process. Because of this, we needed to add to our documents. But—what had we already added to this mega-document, and what had we not added? How would we get these new documents into our existing Voyant pages? While it was possible to sort through what was already in the documents and add to our existing Voyant pages, it was a very tedious task. Learning from our mistakes, we eventually sorted the items by transcript—but put each unique document into folders for each category. Finally, we downloaded these folders from Box and uploaded entire folders at a time to Voyant.
 
