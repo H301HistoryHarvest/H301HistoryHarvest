@@ -38,5 +38,4 @@ Some of the problems that we ended up running into were how are we going to add 
 
 ## A conclusion
 
-A conclusion about how Network analysis together with the research you did on your individual objects helped you answer your research question.
-
+Using network analysis to see how the cultural differences in the objects submitted serve as a mode of individual self expression showed the complexity of what seemed to be a simple connection. After running a faction analysis of our network that we created, the story became much clearer about the connections of these objects relating to individual expression and cultural value. Seeing how smaller nodes such as family ties and education were pulled more towards cultural value while individual expression was the largest node. We reached this by combining how we looked at our own objects and applying them to the network so the greater trends could be seen throughout all of the objects.
