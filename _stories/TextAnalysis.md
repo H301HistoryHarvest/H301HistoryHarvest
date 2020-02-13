@@ -37,7 +37,7 @@ Uploading our transcripts into Voyant was simple… but not at first. This was a
 
 In computing, stop words are the most commonly used words in a language. In turn, it only logically makes sense that stop word lists are sorted out before the processing of the natural language data. Removing them before running the data provides a more clean and efficient use of a program like Voyant. However, it should be stated that stop word lists are ironic. Our group expected them to be relatively straight forward and provide definite results. Yet, the stop word lists did present some challenges initially. While the use of different curvy quotes such as ‘vs.’ usually is not even recognized by human readers, computers will always catch it. Consequently, we learned that we needed to double-check our stop word lists for both sets of curvy quotes to avoid skipping over any common conjunctions that used an odd curvy quote. Additionally, we realized that there is no such thing as a complete stop word list. When should you stop? What is too specific, and is that even a thing? To combat that uncertainty, we elected to create basic stop lists for our three categories of household, apparel, and miscellaneous. From there, we expanded them based on their specific words.
 
-## Object Groups: Apparel, Household items, Miscellaneous items
+## Object Groups: Handcrafted, Manufactured, Miscellaneous items
 
 *Handcrafted*
 
