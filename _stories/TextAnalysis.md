@@ -39,11 +39,11 @@ In computing, stop words are the most commonly used words in a language. In turn
 
 ## Object Groups: Apparel, Household items, Miscellaneous items
 
-*Apparel*
+*Handcrafted*
 
 ![alt text](https://h301historyharvest.github.io/H301HistoryHarvest/assets/images/voyant.png "Voyant Screen Capture")
 
-*Household items*
+*Manufactured*
 
 ![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/HouseholdScreenshot.png "Voyant Screen Capture")
 
