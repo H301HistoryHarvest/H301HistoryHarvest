@@ -23,7 +23,7 @@ By dissecting the transcribed interviews of our history harvest participants, we
 
 The collection of the transcripts went smoothly. Thanks to the class, and additional help transcribing the interviews fairly early along in the process, it was as simple as having a file full of them added to our Text Analysis Box folder. 
 
-- Separate objects into three different groups: *Handcrafted, Manufactured and Miscellaneous items*
+- Separate objects into three different groups: *Handcrafted, Manufactured and The Outlier*
 
 The creation of object groups and separation of said groups was not demanding. Although, it was time-consuming to carefully think the groups that best represented the body of objects, and in turn, sort them accordingly.
 
