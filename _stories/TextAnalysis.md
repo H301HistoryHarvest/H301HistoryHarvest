@@ -27,7 +27,7 @@ The collection of the transcripts went smoothly. Thanks to the class, and additi
 
 The creation of object groups and separation of said groups was not demanding. Although, it was time-consuming to carefully think the groups that best represented the body of objects, and in turn, sort them accordingly.
 
-![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/ExcelScreenshot.png "Excel Screen Capture")
+![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/Screenshot%20of%20Excel%20File.png "Voyant Screen Capture")
 
 - Group and upload transcripts onto *Voyant*
 
