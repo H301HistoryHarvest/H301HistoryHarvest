@@ -53,11 +53,9 @@ In computing, stop words are the most commonly used words in a language. In turn
 
 -explain why malachi is the outlier
 
-The objects are divided in three different secitons: apparels, household objects, and other miscellaneous items. 
-
 Several paragraphs, some of them adapted from your individual research on your objects, go here. Think about the connections from your secondary sources and how some of the other objects from our history harvest fit those connections.
 
-Several paragraphs on the results you see from your text analyis so far.
+Several paragraphs on the results you see from your text analyis so far. 
 
 ## A conclusion
 
