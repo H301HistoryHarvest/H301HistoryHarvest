@@ -41,7 +41,7 @@ In computing, stop words are the most commonly used words in a language. In turn
 
 *Handcrafted*
 
-![alt text](https://h301historyharvest.github.io/H301HistoryHarvest/assets/images/voyant.png "Voyant Screen Capture")
+![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/Handcrafted.png "Voyant Screen Capture")![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/Handcrafted%20linked%20words.png "Voyant Screen Capture")
 
 *Manufactured*
 
