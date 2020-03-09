@@ -51,7 +51,7 @@ In computing, stop words are the most commonly used words in a language. In turn
 
 ![alt text](https://h301historyharvest.github.io/H301HistoryHarvest/assets/images/Malachi.png "Voyant Screen Capture") ![alt text](https://h301historyharvest.github.io/H301HistoryHarvest/assests/images/Malachi%20linked%20words.png "Voyant Screen Capture")
 
-- explain why malachi is the outlier -
+-explain why malachi is the outlier
 
 The objects are divided in three different secitons: apparels, household objects, and other miscellaneous items. 
 
