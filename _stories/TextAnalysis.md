@@ -49,7 +49,7 @@ In computing, stop words are the most commonly used words in a language. In turn
 
 *The Outlier*
 
-![alt text](https://h301historyharvest.github.io/H301HistoryHarvest/assets/images/Malachi.png "Voyant Screen Capture")
+![alt text](https://h301historyharvest.github.io/H301HistoryHarvest/assets/images/Malachi.png "Voyant Screen Capture") ![alt text](https://h301historyharvest.github.io/H301HistoryHarvest/assests/images/Malachi linked words.png "Voyant Screen Capture")
 
 - explain why malachi is the outlier -
 
