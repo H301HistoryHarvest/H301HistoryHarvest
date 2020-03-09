@@ -45,7 +45,7 @@ In computing, stop words are the most commonly used words in a language. In turn
 
 *Manufactured*
 
-![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/HouseholdScreenshot.png "Voyant Screen Capture")
+![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/Manufactured.png "Voyant Screen Capture")
 
 *The Outlier*
 
