@@ -41,19 +41,19 @@ In computing, stop words are the most commonly used words in a language. Removin
 
 *Handcrafted*
 
-![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/Handcrafted.png "Voyant Screen Capture")![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/Handcrafted%20linked%20words.png "Voyant Screen Capture")
+![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/Handcrafted.png "Voyant Screen Capture")
 
 In this word cloud words such as *family, culture, special, and home* appear to dominate. 
 
 *Manufactured*
 
-![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/Manufactured.png "Voyant Screen Capture")![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/Manufactured%20linked%20words.png "Voyant Screen Capture")
+![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/Manufactured.png "Voyant Screen Capture")
 
 In this word cloud, 
 
 *The Outlier*
 
-![alt text](https://h301historyharvest.github.io/H301HistoryHarvest/assets/images/Malachi.png "Voyant Screen Capture")![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/Malachi%20linked%20words.png "Voyant Screen Capture")
+![alt text](https://h301historyharvest.github.io/H301HistoryHarvest/assets/images/Malachi.png "Voyant Screen Capture")
 
 Malachi the dog is much more than a good boy, he's the single most outlying item in our collection. What makes Malachi so unique from the rest of the items? Malachi was not handcrafted nor was he manufactured, being the only living organism put Malachi into a class of his own. 
 
