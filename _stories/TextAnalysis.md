@@ -39,19 +39,19 @@ In computing, stop words are the most commonly used words in a language. Removin
 
 ## Object Groups: Handcrafted, Manufactured and The Outlier 
 
-*Handcrafted*
+**Handcrafted**
 
 ![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/Handcrafted.png "Voyant Screen Capture")
 
 In this word cloud words such as *family, culture, special, and home* appear to dominate. 
 
-*Manufactured*
+**Manufactured**
 
 ![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/Manufactured.png "Voyant Screen Capture")
 
 In this word cloud, 
 
-*The Outlier*
+**The Outlier**
 
 ![alt text](https://h301historyharvest.github.io/H301HistoryHarvest/assets/images/Malachi.png "Voyant Screen Capture")
 
