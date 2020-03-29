@@ -49,7 +49,7 @@ In this word cloud, words such as *family, culture, special, and home* stand out
 
 ![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/Manufactured.png "Voyant Screen Capture")
 
-*Bloomington, birthday, school, friends, and community* emerge from the manufactured word cloud as the primary words. Rather than being crafted by their owners, these items can only be bought by them or gifted to them. Therefore, the connection to the owner is completely different. Here the words are indicative of the owners use for the item. 
+*Bloomington, birthday, school, friends, and community* emerge from the manufactured word cloud as the primary words. Rather than being crafted by their owners, these items can only be bought by them or gifted to them. Therefore, the connection to the owner is completely different. Here the words are indicative of the owners use or attached meaning for the item. *Birthday* more than likely refers to how indviduals recevied the item. While *Bloomington, school, friends, and community* show that manufactured items allow their owners to see themselves as a part of the community through their actions with their indvidual object. 
 
 **The Outlier**
 
