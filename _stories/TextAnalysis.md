@@ -51,7 +51,7 @@ In computing, stop words are the most commonly used words in a language. In turn
 
 ![alt text](https://h301historyharvest.github.io/H301HistoryHarvest/assets/images/Malachi.png "Voyant Screen Capture")![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/Malachi%20linked%20words.png "Voyant Screen Capture")
 
--explain why malachi is the outlier
+Malachi the dog is much more than a good boy, he's the single most outlying item in our collection. What makes Malachi so unique from the rest of the items? Malachi was not handcrafted nor was he manufactured, being the only living organism put Malachi into a class of his own. 
 
 ## Other Groups for the Objects 
 When we started to look at the objects more closely, we started to see that they could be grouped into smaller categories, too. These categories are: Tradition/Ritual/Habit, Accomplishments, International Culture, Family, and Art/Artwork.
