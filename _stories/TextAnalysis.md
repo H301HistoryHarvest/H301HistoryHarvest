@@ -43,13 +43,13 @@ In computing, stop words are the most commonly used words in a language. Removin
 
 ![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/Handcrafted.png "Voyant Screen Capture")
 
-In this word cloud words such as *family, culture, special, and home* stand out from the rest. Indvidually they might not mean much, but when they are grouped together in this context it is clear why they are there. Each helps attach meaning from the object to the creator to why the creator produced it in the first place. People take pride in items they handcraft just as they take pride in their culture and place of birth. Creating something is a way for the indvidual to express themselves.  
+In this word cloud, words such as *family, culture, special, and home* stand out from the rest. Indvidually they might not mean much, but when they are grouped together in this context it is clear why they are there. Each word is indicative of the circumstances or intentions that produced these objects. People take pride in items they handcraft just as they take pride in their culture and place of birth. Indvidual worldview greatly shapes how people express themselves. 
 
 **Manufactured**
 
 ![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/Manufactured.png "Voyant Screen Capture")
 
-Bloomington, birthday, school, and 
+*Bloomington, birthday, school, and different* emerge from the manufactured word cloud as the primary words. Rather than being crafted by their owners, these items are either bought by them or gifted to them. Therefore, the connection to the owner is totally different. Here the words are more indicative of the owners use for the item. 
 
 **The Outlier**
 
