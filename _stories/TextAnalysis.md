@@ -43,19 +43,19 @@ In computing, stop words are the most commonly used words in a language. Removin
 
 ![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/Handcrafted.png "Voyant Screen Capture")
 
-In this word cloud words such as *family, culture, special, and home* appear to dominate. 
+In this word cloud words such as *family, culture, special, and home* stand out from the rest. Indvidually they might not mean much, but when they are grouped together in this context it is clear why they are there. Each helps attach meaning from the object to the creator to why the creator produced it in the first place. People take pride in items they handcraft just as they take pride in their culture and place of birth. Creating something is a way for the indvidual to express themselves.  
 
 **Manufactured**
 
 ![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/Manufactured.png "Voyant Screen Capture")
 
-Bloomington, birthday, school, 
+Bloomington, birthday, school, and 
 
 **The Outlier**
 
 ![alt text](https://h301historyharvest.github.io/H301HistoryHarvest/assets/images/Malachi.png "Voyant Screen Capture")
 
-Malachi the dog is much more than a good boy, he's the single most outlying item in our collection. What makes Malachi so unique from the rest of the items? Malachi was not handcrafted nor was he manufactured, being the only living organism put Malachi into a class of his own. 
+Malachi the dog is much more than a good boy, he's the most unique item in our collection. What makes Malachi so different from the rest of the items? Malachi was not handcrafted nor was he manufactured, being the only living organism put Malachi into a class of his own. 
 
 ## Other Groups for the Objects 
 When we started to look at the objects more closely, we started to see that they could be grouped into smaller categories, too. These categories are: Tradition/Ritual/Habit, Accomplishments, International Culture, Family, and Art/Artwork.
