@@ -89,7 +89,7 @@ As anticipated, when we see this word cloud, *family* is the largest word. Other
 
 Lastly, in this word cloud, we can see a varity of words appear: *tattoo, plate, cleats, alebrija* and some colors and ways art is expressed: *colors, black, show, blue*. What this category represents is the different ways that someone expresses their identity. We had people bring us objects that represented culture, conections, and community in the forms of tattoos, a plate that doubles as a musical instrument, a beach wrap that represents Oshun, a god in Brazilian culture, and a picture of the Gorn from Star Trek that expresses a continuing love for inside jokes between a man and his mother. 
 
-## A conclusion
+## Relating our work back to the research question
 
 A conclusion about how text analysis together with the research you did on your individual objects helped you answer your research question.
 
