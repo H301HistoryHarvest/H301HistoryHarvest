@@ -49,7 +49,7 @@ In this word cloud words such as *family, culture, special, and home* appear to 
 
 ![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/Manufactured.png "Voyant Screen Capture")
 
-In this word cloud, 
+Bloomington, birthday, school, 
 
 **The Outlier**
 
