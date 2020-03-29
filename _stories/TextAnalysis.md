@@ -35,7 +35,7 @@ Uploading the transcripts into Voyant was an area that the group struggled with 
 
 - Make a list of *stop words* for each of the different groups using Voyant
 
-In computing, stop words are the most commonly used words in a language. Removing said words before processing the data provides a more clean and efficient use of a program like Voyant. While stop word lists are supposed to be helpful, our group did struggle with them initially. Our group expected them to be relatively straight forward and provide definite results. We did not expect the straight apostrophe as opposed to a curvy apostrophe (or vice versa) to cause issues when spelling contractions on our stop word lists. Human readers usually do not even recognize the difference between the pair, but computers will always catch it. We first noticed it when contractions such as "can't" or "don't" appeared as some of the largest on the word clouds (meaning they were the most frequently used). Consequently, we learned that we could not afford to make any slip-ups on our stop word lists, or it would cause our results to be incorrect. Because of this, the group created a cheat sheet of sorts. It was a stop word list that contained all the common words and contractions that we had previously spent time filtering out. By doing this, we could copy and paste the cheat sheet list into each new Voyant file and save time. 
+In computing, stop words are the most commonly used words in a language. Removing said words before processing the data provides a more clean and efficient use of a program like Voyant. While stop word lists are supposed to be helpful, our group did struggle with them initially. Our group expected them to be relatively straight forward and provide definite results. We did not expect the straight apostrophe as opposed to a curvy apostrophe (or vice versa) to cause issues when spelling contractions on our stop word lists. Human readers usually do not even recognize the difference between the pair, but computers will always catch it. We first noticed it when contractions such as "can't" or "don't" appeared as some of the largest on the word clouds (meaning they were the most frequently used). Consequently, we learned that we could not afford to make any slip-ups on our stop word lists, or it would cause our results to be incorrect. Because of this, the group created a cheat sheet of sorts. It was a stop word list that contained all the common words and contractions that we had previously spent time filtering out. By doing this, we could copy and paste the cheat sheet list into each new Voyant file and save time in the sorting process. 
 
 ## Object Groups: Handcrafted, Manufactured and The Outlier 
 
@@ -43,9 +43,13 @@ In computing, stop words are the most commonly used words in a language. Removin
 
 ![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/Handcrafted.png "Voyant Screen Capture")![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/Handcrafted%20linked%20words.png "Voyant Screen Capture")
 
+In this word cloud, 
+
 *Manufactured*
 
 ![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/Manufactured.png "Voyant Screen Capture")![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/Manufactured%20linked%20words.png "Voyant Screen Capture")
+
+In this word cloud, 
 
 *The Outlier*
 
