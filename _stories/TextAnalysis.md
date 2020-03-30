@@ -41,7 +41,7 @@ In computing, stop words are the most commonly used words in a language. Removin
 
 **Handcrafted**
 
-![alt text](https://github.com/H301HistoryHarvest/H301HistoryHarvest/blob/master/assets/images/Handcrafted.png "Voyant Screen Capture")
+![alt text](https://h301HistoryHarvest.github.io/H301HistoryHarvest/assets/images/Handcrafted.png "Voyant Screen Capture")
 
 In this word cloud, words such as *family, culture, special, and home* stand out from the rest. Indvidually they might not mean much, but when they are grouped together in this context it is clear why they are there. Each word is indicative of the circumstances or intentions that produced these objects. People take pride in items they handcraft just as they take pride in their culture and place of birth. Indvidual worldview greatly shapes how people express themselves. 
 
