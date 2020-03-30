@@ -91,5 +91,6 @@ Lastly, in this word cloud, we can see a varity of words appear: *tattoo, plate,
 
 ## Relating our work back to the research question
 
-A conclusion about how text analysis together with the research you did on your individual objects helped you answer your research question.
+Processing our transcribed interviews through Voyant gave us the ability to illustrate a visual connection between the categories of items and the spoken words of their owners or creators. The word clouds acted to show the hidden connection between items that individually appear to be quite different. This was demonstrated by the largest words that appeared on the word cloud. The larger the word, the more times it was used in the data set. Once the stop word lists were in effect, all common text such as like, the, can’t, etc. were removed leaving the most important words across all files in that category to present themselves.   
+
 
